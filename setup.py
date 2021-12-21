@@ -11,9 +11,5 @@ setup(
         "requests",
         "tqdm",
     ],
-    package_data = [
-        ("tokenizer", ["tokenizer/bpe_simple_vocab_16e6.txt.gz", "tokenizer/encoder.json.gz", "tokenizer/vocab.bpe.gz"]),
-        ("clip", ["clip/config.yaml"]),
-    ],
     author="OpenAI",
 )
