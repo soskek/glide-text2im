@@ -11,5 +11,6 @@ setup(
         "requests",
         "tqdm",
     ],
+    package_data={'glide_text2im': ['tokenizer/*.gz', 'clip/config.yaml']},
     author="OpenAI",
 )
