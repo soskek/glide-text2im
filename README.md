@@ -1,4 +1,6 @@
-# GLIDE
+# a fork of GLIDE
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sEul9mj4B2C2dqMCPudyJuvXHpFfGY-o?usp=sharing)
 
 This is the official codebase for running the small, filtered-data GLIDE model from [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741).
 
